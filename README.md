@@ -39,6 +39,14 @@ I'm a **Frontend Web Developer** passionate about building fast, responsive, and
 
 ---
 
+## 📚 Currently Learning
+
+- Redux Toolkit & React Query  
+- Firebase Authentication & Firestore  
+- Next.js
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -52,12 +60,14 @@ I'm a **Frontend Web Developer** passionate about building fast, responsive, and
 ### 📄 [CV Application (React)](https://github.com/Ibrahim-Ashraf-Saber/Project-CVApplication)
 - Create, edit, and delete CV sections like education and experience
 - Built using React & Tailwind CSS with modular component structure
-- Local state management and clean reusable UI components
+- Local state management and clean reusable UI components  
+🔗 **Live Demo:** [https://cvapp-demo.vercel.app](https://cvapp-demo.vercel.app)  
 
 ### 🔄 [CRUD App (React)](https://github.com/Ibrahim-Ashraf-Saber/CRUD)
 - Basic CRUD operations with React
 - Add, edit, delete, and display user data
-- Great example for learning how to manage state and forms
+- Great example for learning how to manage state and forms  
+🔗 **Live Demo:** [https://crudapp-demo.vercel.app](https://crudapp-demo.vercel.app)  
 
 ---
 
