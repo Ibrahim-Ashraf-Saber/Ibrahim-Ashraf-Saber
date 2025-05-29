@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0ED3CF&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;React+%7C+Tailwind+CSS+%7C+TypeScript;Passionate+about+building+clean+UIs" alt="Typing SVG" />
 </div>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <p align="center">
   <a href="mailto:xxibrahimashrafxx@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
