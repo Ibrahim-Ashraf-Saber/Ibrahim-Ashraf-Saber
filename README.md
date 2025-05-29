@@ -61,13 +61,13 @@ I'm a **Frontend Web Developer** passionate about building fast, responsive, and
 - Create, edit, and delete CV sections like education and experience
 - Built using React & Tailwind CSS with modular component structure
 - Local state management and clean reusable UI components  
-🔗 **Live Demo:** [https://cvapp-demo.vercel.app](https://cvapp-demo.vercel.app)  
+🔗 **Live Demo:** ([https://cvapp-demo.vercel.app](https://github.com/Ibrahim-Ashraf-Saber/Project-CVApplication))  
 
 ### 🔄 [CRUD App (React)](https://github.com/Ibrahim-Ashraf-Saber/CRUD)
 - Basic CRUD operations with React
 - Add, edit, delete, and display user data
 - Great example for learning how to manage state and forms  
-🔗 **Live Demo:** [https://crudapp-demo.vercel.app](https://crudapp-demo.vercel.app)  
+🔗 **Live Demo:** ([https://github.com/Ibrahim-Ashraf-Saber/Project-CVApplication](https://github.com/Ibrahim-Ashraf-Saber/CRUD))  
 
 ---
 
