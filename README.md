@@ -100,6 +100,6 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Ibrahim-Ashraf-Saber/Ibrahim-Ashraf-Saber/raw/output/snake.svg" alt="Snake animation" />
 
 ---
