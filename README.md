@@ -98,6 +98,8 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
 
 ---
 
+## 🐍 Contribution Graph
+
 <br clear="both">
 
 <img src="https://github.com/Ibrahim-Ashraf-Saber/Ibrahim-Ashraf-Saber/raw/output/snake.svg" alt="Snake animation" />
