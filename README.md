@@ -95,3 +95,11 @@ I'm a **Frontend Developer** passionate about crafting clean, fast, and responsi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ibrahim-Ashraf-Saber&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+---
